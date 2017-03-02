@@ -1,0 +1,31 @@
+body{
+      background: linear-gradient(rgba(228, 255, 0, 0.38), rgba(244, 54, 54, 0.01)););
+
+    background-repeat: no-repeat;;
+}
+h1 {
+    text-align: center;
+    font-size: 7em;
+background: linear-gradient(rgba(228, 255, 0, 0.34), rgba(175, 76, 76, 0));;
+ border: double;
+}
+button{
+
+  font-size: 3em;
+  background: linear-gradient(rgba(228, 255, 0, 0.05), rgba(255, 235, 59, 0.52));
+  font-family: -webkit-body;
+}
+input{
+  font-size: 3em;
+background: linear-gradient(rgba(228, 255, 0, 0.05), rgba(255, 235, 59, 0.52));font-style: italic;
+}
+.nellz{
+    text-align: center;
+}
+h2{
+  text-align: center;
+    font-size: 6em;
+    font-family: monospace;
+    border: outset;
+    background: linear-gradient(rgba(228, 255, 0, 0.38), rgba(244, 54, 54, 0.01));
+}
