@@ -30,6 +30,7 @@ h2{
     background: linear-gradient(rgba(228, 255, 0, 0.38), rgba(244, 54, 54, 0.01));
 }
 .Asante{
+      margin-top: 1em;
       text-align: center;
       border: double;
     font-size: -webkit-xxx-large;
