@@ -64,3 +64,4 @@ function resetFunction() {
   document.getElementById("counter").innerHTML = greetCounter;
 
 }
+// done
