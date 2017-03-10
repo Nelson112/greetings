@@ -20,7 +20,7 @@ function myfunction() {
     greetCounter += 1
     namesGreeted[txtBox] = 0;
     inputName = document.getElementById("myName").value;
-    greetingsElem.innerHTML = greetCounter;
+
   }
   document.getElementById("counter").innerHTML = greetCounter;
 
@@ -49,15 +49,9 @@ function myfunction() {
     document.getElementById("myName").value = ""
 
   }
-}
-
-
-
 
 localStorage.setItem('counter', greetCounter);
-
-
-
+}
 
 document.getElementById('counter').innerHTML = greetCounter;
 //myfunction();
