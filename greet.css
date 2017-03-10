@@ -8,6 +8,7 @@ h1 {
     font-size: 7em;
 background: linear-gradient(rgba(228, 255, 0, 0.34), rgba(175, 76, 76, 0));;
  border: double;
+ border-radius: 12px
 }
 button{
 
@@ -28,6 +29,7 @@ background: linear-gradient(rgba(228, 255, 0, 0.05), rgba(255, 235, 59, 0.52));f
 }
 .nellz{
     text-align: center;
+    border-radius: 12px
 }
 h2{
   text-align: center;
@@ -35,6 +37,7 @@ h2{
     font-family: monospace;
     border: outset;
     background: linear-gradient(rgba(228, 255, 0, 0.38), rgba(244, 54, 54, 0.01));
+    border-radius: 12px
 }
 .Asante{
       margin-top: 1em;
@@ -42,4 +45,5 @@ h2{
       border: double;
     font-size: -webkit-xxx-large;
     background: linear-gradient(rgba(228, 255, 0, 0.34), rgba(175, 76, 76, 0));
+    border-radius: 12px
 }
