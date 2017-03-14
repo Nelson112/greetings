@@ -1,4 +1,4 @@
-/*declare counter variable to store the number of counts*/
+ /*declare counter variable to store the number of counts*/
 var greetCounter = 0;
 //global variable that stores the names that has been greeted
 var namesGreeted = {};
