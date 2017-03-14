@@ -1,50 +1,74 @@
-body{
-      background: linear-gradient(rgba(228, 255, 0, 0.38), rgba(244, 54, 54, 0.01)););
-
-    background-repeat: no-repeat;;
+body {
+  /*background: linear-gradient(rgba(228, 255, 0, 0.38), rgba(244, 54, 54, 0.01));
+  );*/
+  background-repeat: no-repeat;
+  background-image: url("/home/bootcamp/projects/greetings/images/wallpaper-nebg9-waterscape-store-beach-arising-pristine-mermaid.jpg");
+  background-size: cover;
+  color: white;
+  ;
 }
 h1 {
-    text-align: center;
-    font-size: 7em;
-background: linear-gradient(rgba(228, 255, 0, 0.34), rgba(175, 76, 76, 0));;
- border: double;
- border-radius: 12px
-}
-button{
-
-  font-size: 3em;
-  background: linear-gradient(rgba(228, 255, 0, 0.05), rgba(255, 235, 59, 0.52));
-  font-family: -webkit-body;
-}
-#resetCounter{
-  margin-bottom: 1em;
-margin-left: 12em;
-font-size: 3em;
-    background: linear-gradient(rgba(228, 255, 0, 0.05), rgba(255, 235, 59, 0.52));
-    font-family: -webkit-body;
-}
-input{
-  font-size: 3em;
-background: linear-gradient(rgba(228, 255, 0, 0.05), rgba(255, 235, 59, 0.52));font-style: italic;
-}
-.nellz{
-    text-align: center;
-    border-radius: 12px
-}
-h2{
   text-align: center;
-    font-size: 6em;
-    font-family: monospace;
-    border: outset;
-    background: linear-gradient(rgba(228, 255, 0, 0.38), rgba(244, 54, 54, 0.01));
-    border-radius: 12px
+  font-size: 7em;
+  background: linear-gradient(rgba(24, 9, 154, 0.82), rgba(175, 76, 76, 0));
+  ;
+  border: double;
+  border-radius: 12px
+  color: white;
 }
-.Asante{
-      margin-top: 1em;
-      text-align: center;
-      border: double;
-    font-size: -webkit-xxx-large;
-    background: linear-gradient(rgba(228, 255, 0, 0.34), rgba(175, 76, 76, 0));
-    border-radius: 12px
+button {
+  font-size: 3em;
+  background: linear-gradient(rgba(24, 9, 154, 0.82), rgba(175, 76, 76, 0));
+  font-family: -webkit-body;
+  color: white;
 }
+#resetCounter {
+  margin-bottom: 1em;
+  margin-left: 12em;
+  font-size: 3em;
+  background: linear-gradient(rgba(24, 9, 154, 0.82), rgba(175, 76, 76, 0));
+  font-family: -webkit-body;
+  color: white;
+}
+input {
+  font-size: 3em;
+  background: linear-gradient(rgba(24, 9, 154, 0.82), rgba(175, 76, 76, 0));
+  font-style: italic;
+  color: white;
+  text-transform: capitalize;
+}
+.nellz {
+  text-align: center;
+  border-radius: 12px
+  color: white;
+}
+h2 {
+  text-align: center;
+  font-size: 6em;
+  font-family: monospace;
+  border: outset;
+  background: linear-gradient(rgba(24, 9, 154, 0.82), rgba(175, 76, 76, 0));
+  border-radius: 12px
+  color: white;
+  text-transform: capitalize;
+}
+.Asante {
+  margin-top: 1em;
+  text-align: center;
+  border: double;
+  font-size: -webkit-xxx-large;
+  background: linear-gradient(rgba(24, 9, 154, 0.82), rgba(175, 76, 76, 0));
+  border-radius: 12px
+  color: white;
+}
+h4 {
+  font-size: 2em;
+  margin-top: -19px;
+  margin-bottom: 1px;
+}
+#resetCounter {
+  text-align: center;
+  margin-left: 17em;
+}
+
 /*done now*/
